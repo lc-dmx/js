@@ -1,3 +1,4 @@
+![](https://github.com/lc-dmx/js/blob/master/%E8%B7%B3%E8%BD%AC%E7%BD%91%E9%A1%B5/2935550262.gif)
 主要代码如下：
 ```
 <script type="text/javascript">  
